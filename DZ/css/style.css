@@ -1,0 +1,17 @@
+.site-logo {
+  margin-right: 1070px;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+iframe {
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+}

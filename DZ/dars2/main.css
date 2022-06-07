@@ -1,0 +1,112 @@
+bady{
+    background-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.header {
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-right: 50px;
+
+}
+
+.home {
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    margin-right: 50px;
+}
+.about {
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    margin-right: 50px;
+}
+.subscribe {
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+.it {
+    font-size: 60px;
+    text-align: center;
+    color: #000;
+    margin-top: 150px;
+    margin-bottom: 220px;
+}
+.table-item {
+    display: flex;
+    margin-bottom: 200px;
+}
+.table-list {
+    width: 280px;
+    padding: 5px 5px;
+    margin-right: 40px;
+    border: 1px solid #000;
+    background-color: #fff;
+}
+
+.table-list:last-child {
+    margin-right: 0;
+}
+
+.google-logo {
+    display: block;
+    margin-left: 60px;
+}
+.google-text {
+    color: #000;
+    padding: 25px 20px;
+    font-size: 14px;
+}
+.youtube-logo {
+    display: block;
+    margin-left: 60px;
+}
+.youtube-text {
+    color: #000;
+    padding: 25px 20px;
+    font-size: 14px;
+}
+
+.tesla-logo {
+    display: block;
+    margin-left: 60px;
+}
+.tesla-text {
+    color: #000;
+    padding: 25px 20px;
+    font-size: 14px;
+}
+.facebook-logo {
+    display: block;
+    margin-left: 60px;
+}
+.facebook-text {
+    color: #000;
+    padding: 25px 20px;
+    font-size: 14px;
+}

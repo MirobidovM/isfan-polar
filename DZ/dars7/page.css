@@ -1,0 +1,85 @@
+body {
+  font-family: Britannic Bold, Helvetica, sans - serif;
+  background-color: #fff;
+}
+* {
+  box-sizing: border - box;
+}
+
+.font {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+label {
+  box-shadow: 5px 5px 5px rgba(48, 47, 47, 0.82);
+  background-color: rgb(255, 0, 0);
+  border-radius: 7px;
+  margin-left: 10px;
+  opacity: 0.7;
+}
+
+.font:hover {
+  cursor: help;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+}
+.container {
+  padding: 16;
+  background-color: white;
+}
+form {
+  margin-top: 10px;
+  width: 700px;
+  margin-left: 410px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.82);
+}
+
+.fon {
+  background-color: rgb(0, 0, 0);
+  border-radius: 9px;
+}
+
+a {
+  color: #b5c7ee;
+}
+.signin {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  margin-left: 00px;
+}
+.signin :hover {
+  cursor: help;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+
+button {
+  width: 100px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(240, 0, 0);
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  font-family: serif;
+  opacity: 0.9;
+}
+
+input {
+  border-radius: 5px;
+  border-color: rgb(110, 101, 215);
+  margin-left: 18px;
+
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.82);
+}
+
+button:hover {
+  color: rgb(15, 15, 18);
+  background-color: rgb(255, 255, 255);
+  cursor: help;
+  font-size: small;
+}
